@@ -1,0 +1,33 @@
+% -*- mode: tex -*- 
+
+\page[yes]
+
+<% IF imposed %>
+\startmode[a4imposed,a4imposedbc,letterimposed,letterimposedbc,a5imposed,%
+  a5imposedbc,halfletterimposed,halfletterimposedbc]
+\alibraryflushpages
+\stopmode
+<% ELSE %>
+\page[blank]
+<% END %>
+
+\startalignment[center]
+{The Anarchist Library
+\blank[small]
+Anti-Copyright}
+\blank[line]
+\currentdate
+\stopalignment
+
+%%% last but not the least, output the paper requested.
+
+\directlua{texio.write_nl('term and log', "ImposerMessage:: Paper: <% paper %>")}
+
+<% IF (minsig == 0) or (maxsig == 0) %>
+\directlua{texio.write_nl('term and log', "ImposerMessage:: Signature: None")}
+<% END %>
+
+\stoptext
+
+
+

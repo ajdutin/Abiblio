@@ -1,0 +1,403 @@
+<%-# -*- mode: html -*- -%>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<%- IF meta.lang %>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="<%- meta.lang -%>" lang="<%- meta.lang -%>">
+  <%- ELSE -%>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <%- END %>
+  <head>
+    <meta http-equiv="Content-Type"
+	  content="application/xhtml+xml; charset=UTF-8" />
+    <title><% IF meta.title %>
+      <%- meta.title -%>
+      <%- ELSE -%>
+      Untitled
+      <%- END %></title>
+    <style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+html,body, pre.verse {
+	margin:0;
+	padding:0;
+	border: none;
+ 	background: transparent;
+	font-family: Verdana, "DejaVu Sans", Helvetica, Arial, sans-serif;
+	font-size: 10pt;
+} 
+
+div#widepage {
+    padding: 20px 20px 0px 20px;
+}
+
+pre, code {
+    font-family: Consolas, courier, monospace;
+}
+
+pre {
+    border: 1pt solid #AEBDCC;
+    margin: 24px 0;
+}
+
+/* arial for some things */
+h1,h2,h3,h4,h5,h6,#cloud { 
+    font-weight: bolder;
+    font-family: Arial, Helvetica, "DejaVu Sans", sans-serif;
+}
+
+h2 a, h3 a, h4 a, h5 a, h6 a, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited
+  {
+  color: #000000;
+  text-decoration: none;
+}
+
+
+h1 { 
+    font-size: 200%;
+    margin: .67em 0
+}
+h2 { 
+    font-size: 180%;
+    margin: .75em 0
+}
+h3 { 
+    font-size: 150%;
+    margin: .83em 0
+}
+h4 { 
+    font-size: 130%;
+    margin: 1.12em 0
+}
+h5 { 
+    font-size: 115%;
+    margin: 1.5em 0
+}
+h6 { 
+    font-size: 100%;
+    margin: 0;
+}
+
+sup, sub {
+    font-size: 8pt;
+    line-height: 0;
+}
+
+/* invisibles */
+span.hiddenindex, span.commentmarker, .comment, span.tocprefix, #hitme {
+    display: none
+}
+
+.comment {
+    background: rgb(255,255,158);
+}
+
+pre.verse {          
+    margin: 24px 48px;
+    overflow: auto;
+    border: none;
+} 
+
+table, th, td {
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+td, th {
+    padding: 2px 5px;
+}
+
+hr {
+    margin: 24px 0;
+    color: #000;
+    height: 1px;
+    background-color: #000;
+}
+
+table {
+    margin: 24px auto;
+}
+
+td, th { vertical-align: top; }
+th {font-weight: bold;}
+
+caption {
+    caption-side:bottom;
+}
+
+img.embedimg {
+    margin: 1em;
+    max-width:90%;
+}
+div.image {
+    margin: 1em;
+    text-align: center;
+    padding: 3px;
+    background-color: white;
+}
+
+.biblio p, .play p {
+  margin-left: 1em;
+  text-indent: -1em;
+}
+
+div.biblio, div.play {
+  padding: 24px 0;
+}
+
+div.caption {
+    padding-bottom: 1em;
+}
+
+div.center {
+    text-align: center;
+}
+
+div.right {
+    text-align: right;
+}
+
+a { text-decoration: none; }
+
+
+div#footer {
+    clear: both;
+    text-align: center;
+    display: none;
+}
+
+/* footnotes */
+
+a.footnote, a.footnotebody {
+    font-size: 8pt;
+    line-height: 0;
+    vertical-align: super;
+}
+
+* + p.fnline {
+    margin-top: 3em;
+    border-top: 1px solid black;
+    padding-top: 2em;
+}
+
+p.fnline + p.fnline {
+    margin-top: 1em;
+    border-top: none;
+    padding-top: 0;
+}
+
+p.fnline {
+    font-size: 8pt;
+}
+/* end footnotes */
+
+/* exceptions: toc and indexes */
+.index a, h4 a.frontpageitem, div#header h4 {
+    font-weight: normal; 
+}
+
+/* which on hover get the underline */
+#tableofcontents a:hover{
+    text-decoration: underline;
+}
+
+/***********
+LINK COLORS
+************/
+
+/* this is the main color link */
+a { color: #8b0000; }
+
+/* visited links, hovering over links */
+a:visited, a:hover {
+    color:#610503; /* just a bit darker, not too much */
+}
+
+/* color for the links in the indexes titles topics authors */
+div.index ul li a, 
+div#frontpage div#header h4 a,
+div#cloud a
+ {
+    color: #8b1111;
+}
+
+a img, img {
+    border: none;
+}
+
+div#downloadformats {
+padding: 0 0 10px 0;
+}
+
+div#preamble p {
+    padding:0;
+    margin: 0;
+}
+
+#preamble a:hover {
+    text-decoration: underline;
+}
+
+
+/* TOC and BUTTONS */ 
+
+
+div#tableofcontents {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+#tableofcontents a {
+	color: #000;
+	text-decoration: none;}
+
+ul#toc {
+    margin:0;
+    padding:0;
+    text-indent: 0; 
+
+}
+
+#tableofcontents p {
+    margin: 3px 1em;
+    text-indent: -1em;
+}
+
+.toclevel2 {
+	font-weight: bold;
+	font-size:11pt
+}	
+
+.toclevel3 {
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+.toclevel4 {
+	font-weight: normal;
+	font-size: 9pt;
+}
+
+.toclevel5 {
+	font-weight: normal;
+	font-size: 8pt;
+}
+
+#nothere {
+    display: none;
+}
+
+  /*]]>*/-->
+    </style>
+  </head>
+  <body>
+    <div id="widepage">
+    <div id="page">
+      <div id="preamble">
+	<%- IF directives.title %>
+	<p id="texttitle"><strong>Наслов:</strong>
+	  <% directives.title %>
+	</p>
+	<% END %>
+	<%- IF directives.subtitle %>
+	<p id="textsubtitle"><strong>Поднаслов:</strong>
+	  <% directives.subtitle %>
+	</p>
+	<% END %>
+	<%- IF directives.SORTauthors %>
+	<p id="authors"><strong>Автор(и):</strong>
+	  <% FOREACH author = directives.SORTauthors -%>
+	  <a href="../../authors.html#library-index-<%- author.cleanurl -%>">
+	    <%- author.name -%></a>
+	  <% END %>
+	</p>
+	<% ELSIF directives.author %>
+	<p id="authors"><strong>Автор(и):</strong>
+	  <% directives.author %>
+	</p>
+	<% END -%>
+	<%- IF directives.date %>
+	<p id="textdate"><strong>Датум:</strong>
+	  <% directives.date %>
+	</p>
+	<% END %>
+	<%- IF directives.SORTtopics %>
+	<p id="ourtopics"><strong>Теми:</strong>
+	  <% FOREACH topic = directives.SORTtopics -%>
+	  <a href="../../topics.html#library-index-<%- topic.cleanurl -%>">
+	    <%- topic.name -%></a>
+	  <% END %>
+	</p>
+	<% END -%>
+	<% IF directives.notes %>
+	<p id="preamblenotes"><strong>Забелешки:</strong>
+	  <% directives.notes %>
+	</p>
+	<% END %>
+	<% IF directives.source %><strong>Извор:</strong>
+	<% directives.source %>
+	<% END %>
+      </div>
+      <div id="downloadformats">
+	<p>
+	  <span id="pdfgeneric">
+	    <a href="<% meta.basename %>.pdf" class="pdflinks">
+	      [Обичен PDF]
+	    </a>
+	  </span>
+	  <span id="pdfa4imp">
+	    <a href="<% meta.basename %>.a4.pdf" class="pdflinks">
+	      [A4 PDF за печатење]
+	    </a> 
+	  </span>
+	  <span id="downloadepub">
+	    <a href="<% meta.basename %>.epub">
+	      [EPUB (за e-reader)]
+	    </a>
+	  </span>
+	  <span id="downloadtex">
+	    <a href="<% meta.basename %>.tex">
+	      [ConTeXt изворен код]
+	    </a>
+	  </span>
+	  <span id="downloadsrc">
+	    <a href="<% meta.basename %>.muse">
+	      [Plain text извор]
+	    </a>
+	  </span>
+	</p>
+      </div>
+      
+<!-- START BARE TEXT MARKER: do not remove -->
+
+    <div id="textwithoutmetadata">
+      <div id="pagemaintitle">
+	<%- IF directives.author %>
+	<h2><% directives.author %></h2>
+	<% END %>
+	<%- IF directives.title %>
+	<h1 id="textttitleh"><%- directives.title -%></h1>
+	<% END %>
+	<%- IF directives.subtitle %>
+	<h2><% directives.subtitle %></h2>
+	<% END %>
+      </div>
+      
+      <% IF meta.toc %>
+      <div id="tableofcontents">
+	<% meta.toc %>
+      </div>
+      <% END %>
+      <div id="thework">
+	<% content %>
+      </div>
+    </div>
+
+<!-- STOP BARE TEXT MARKER: do not remove -->
+
+    </div>
+    <div id="footer">
+    </div>
+    </div>
+  </body>
+</html>

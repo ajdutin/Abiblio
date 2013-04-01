@@ -1,0 +1,28 @@
+<%-# -*- mode: html -*- -%>
+<% INCLUDE head.tt %>
+<ol>
+  <% FOREACH author IN sortedlist %>
+  <li><h3 id="library-index-<% author.cleanurl %>"><% author.name %></h3>
+    <ol>
+      <% FOREACH text IN author.titles %>
+      <li>
+	<% pathchunk = text.path.split('/') %>
+	<a href="./<%- pathchunk.last(2).join('/') -%>/<%- text.file %>.html">
+	  <% text.title %>
+	</a>
+	<% IF text.SORTauthors %>
+	<% authorslist = [] %>
+	<%- FOREACH author = text.SORTauthors %>
+	<% SET myitem = '<a href="#library-index-' _
+				  author.cleanurl _  '">'
+	   _ author.name _ '</a>' %>
+	<% authorslist.push(myitem) %>
+	<%- END -%>
+	(<% authorslist.join(", ") %>)
+	<% END %>
+      </li>
+      <% END %>
+    </ol>
+  </li>
+  <% END %>
+</ol>

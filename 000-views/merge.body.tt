@@ -1,0 +1,72 @@
+<% IF meta.imagedir %>
+\setupexternalfigures[directory={<% meta.imagedir %>}]
+<% END %>
+
+<% IF meta.lang %>
+\language[<%- meta.lang -%>]
+<% ELSE %>
+\language[en]
+<% END %>
+
+
+\starttitlepagemakeup
+\blank[force,big]
+\startalignment[middle,verytolerant,nothyphenated,stretch]
+\switchtobodyfont[18pt] % author
+  {\bf \em
+<% IF directives.author %>
+<% directives.author -%>
+<% END -%>
+  \par}
+  \blank[2*big]
+  \switchtobodyfont[24pt] % title
+  {\bf
+<% IF directives.title %>
+<% directives.title %>
+<% END %>
+\par}
+  \blank[big]
+  \switchtobodyfont[20pt] % subtitle
+  {\bf 
+<% IF directives.subtitle %>
+<% directives.subtitle %>
+<% END %>
+\par}
+  \vfill
+  \stopalignment
+  \startalignment[middle,bottom,nothyphenated,stretch,nothanging]
+  \switchtobodyfont[global]
+<% IF directives.date %>
+<% directives.date %>
+<% END %>
+\writetolist[awikipart]{}{<% directives.title %>}
+\stopalignment
+\stoptitlepagemakeup
+
+\page[yes]
+
+<% content %>
+
+<% IF (directives.notes OR directives.source) %>
+
+\page[yes]
+
+~
+
+\vfill
+
+\startalignment[middle,verytolerant]
+
+<% IF directives.notes %>
+<% directives.notes %>
+<% END %>
+
+<% IF directives.source %>
+<% directives.source %>
+<% END %>
+
+\stopalignment
+
+<% END %>
+
+
