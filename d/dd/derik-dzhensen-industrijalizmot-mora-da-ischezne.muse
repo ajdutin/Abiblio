@@ -1,6 +1,6 @@
 #title Индустријализмот мора да исчезне
 #author Дерик Џенсен
-#SORTauthors Дерик Џенсен; Derrick Jensen
+#SORTauthors Дерик Џенсен (Derrick Jensen)
 #SORTtopics критика на цивилизацијата
 #source Green Anarchy #9, Summer 2002. http://utenti.multimania.it/trinitywebsite/Industrialism.html
 #date 2002
@@ -41,6 +41,7 @@
  
 
 Она што стои како задача пред секој од нас е да ја отфрли таа нормалност.
+
 
 
 
