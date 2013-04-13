@@ -5,64 +5,14 @@
 \enabletrackers[fonts.missing]
 \definefontfeature[default][default]
                   [protrusion=quality,
-                    expansion=quality,
-                    script=latn]
-
-\definefontfeature
-[ptfeatures]
-[mode=node,liga=yes,kern=yes,tlig=yes,trep=yes,
-  ccmp=yes,language=dflt,script=cyrl,
-  protrusion=quality,
-  expansion=quality]
-
-\starttypescript [sans] [paratype]
-  \definefontsynonym[PTSans-Regular]          [file:PTS55F]
-  \definefontsynonym[PTSans-Bold]             [file:PTS75F]
-  \definefontsynonym[PTSans-BoldItalic]       [file:PTS76F]
-  \definefontsynonym[PTSans-Italic]           [file:PTS56F]
-\stoptypescript
-
-\starttypescript [serif] [paratype]
-  \definefontsynonym[PTSerif-Regular]         [file:PTF55F] 
-  \definefontsynonym[PTSerif-Bold]            [file:PTF75F] 
-  \definefontsynonym[PTSerif-BoldItalic]      [file:PTF76F] 
-  \definefontsynonym[PTSerif-Italic]          [file:PTF56F] 
-\stoptypescript
-
-\starttypescript [sans] [paratype] [name]
-  \definefontsynonym [Sans]           [PTSans-Regular]     [features=ptfeatures]
-  \definefontsynonym [SansItalic]     [PTSans-Italic]      [features=ptfeatures]
-  \definefontsynonym [SansSlanted]    [PTSans-Italic]      [features=ptfeatures]
-  \definefontsynonym [SansBold]       [PTSans-Bold]        [features=ptfeatures]
-  \definefontsynonym [SansBoldItalic] [PTSans-BoldItalic]  [features=ptfeatures]
-  \definefontsynonym [SansBoldSlanted][PTSans-BoldItalic]  [features=ptfeatures]
-  \definefontsynonym [SansCaps]       [PTSans-Regular]     [features=ptfeatures]
-\stoptypescript
-
-\starttypescript [serif] [paratype] [name]
-  \definefontsynonym [Serif]           [PTSerif-Regular]     [features=ptfeatures]
-  \definefontsynonym [SerifItalic]     [PTSerif-Italic]      [features=ptfeatures]
-  \definefontsynonym [SerifSlanted]    [PTSerif-Italic]      [features=ptfeatures]
-  \definefontsynonym [SerifBold]       [PTSerif-Bold]        [features=ptfeatures]
-  \definefontsynonym [SerifBoldItalic] [PTSerif-BoldItalic]  [features=ptfeatures]
-  \definefontsynonym [SerifBoldSlanted][PTSerif-BoldItalic]  [features=ptfeatures]
-  \definefontsynonym [SerifCaps]       [PTSerif-Regular]     [features=ptfeatures]
-\stoptypescript
-
-\starttypescript [paratype]
-  \definetypeface [paratype] [rm] [serif] [paratype] [default]
-  \definetypeface [paratype] [ss] [sans]  [paratype]  [default]
-  \definetypeface [paratype] [tt] [mono]  [default]   [default]
-  \definetypeface [paratype] [mm] [math]  [default]   [default]
-\stoptypescript
-
+                    expansion=quality]
 
 \setupalign[hz,hanging]
 \setuptolerance[verytolerant]
 \setbreakpoints[compound]
 \setupindenting[yes,1em]
 \setupfootnotes[way=bychapter,align={hz,hanging}]
-\setupbodyfont[paratype]
+\setupbodyfont[dejavu]
 
 \setuppagenumbering[alternative=singlesided,location={footer,middle}]
 \setupcaptions[width=fit,align={hz,hanging},number=no]
