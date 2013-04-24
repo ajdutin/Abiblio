@@ -1,6 +1,6 @@
 #title Глобализација
 #subtitle Идеи за разбирање, преживување и давање отпор на новиот модел на профитирање
-#author Aдријано Палоела, Зелинда Карлони
+#author Aдријано Палоела, Ѕелинда Карлони
 #SORTauthors Aдријано Палоела (Аdriano Paloella), Ѕелинда Карлони (Zelinda Carloni)
 #SORTtopics глобализација, капитализам, неолиберализам, отпор
 #source ArivistA #274, лето 2001.
@@ -634,5 +634,6 @@ Robertson R.,(1999), <em>Globalizzazione</em>, Asterios Editore Trieste
 Spybey T.,(1997), <em>Globalizzazione e societa mondiale</em>, Asterios Editore
 
 Vaccaro S. (a cura),(1999), <em>Il pianeta unico</em>, Eleuthera, Milano
+
 
 
