@@ -1,8 +1,8 @@
 #title Зошто анархистите не гласаат?
 #author Елизе Рекли
 #SORTauthors Елизе Рекли (Elisée Reclus)
-#SORTtopics анархизам
-#source http://theanarchistlibrary.org/library/elisee-reclus-why-anarchists-don-t-vote#
+#SORTtopics анархизам, демократија
+#source [[http://theanarchistlibrary.org/library/elisee-reclus-why-anarchists-don-t-vote#][theanarchistlibrary.org]]
 #notes Превод: Стефан Симоновски; оригинално објавено во Mother Earth
 #lang mk
 
@@ -56,6 +56,7 @@
 
 
 <strong>Не гласајте!</strong>
+
 
 
 
