@@ -2,7 +2,7 @@
 #author Фреди Перлман
 #SORTauthors Фреди Перлман (Fredy Perlman)
 #SORTtopics отуѓување, критика на работата, капитализам
-#source The Reproduction of Daily Life, Black & Red, Detroit, 1969.
+#source The Reproduction of Daily Life, Black & Red, Detroit, 1969. [[http://theanarchistlibrary.org/library/fredy-perlman-the-reproduction-of-daily-life][theanarchistlibrary.org]]
 #date 1969
 #notes Наслов на оригиналот: The Reproduction of Daily Life. Првпат објавено од Плоштад Слобода, Скопје, 2003. Превод: Стефан Симоновски, 2001.
 #lang mk
@@ -208,6 +208,7 @@
  
 
  
+
 
 
 
