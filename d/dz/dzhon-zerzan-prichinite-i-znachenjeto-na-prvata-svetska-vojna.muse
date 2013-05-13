@@ -2,7 +2,7 @@
 #author Џон Зерзан
 #SORTauthors Џон Зерзан (John Zerzan) 
 #SORTtopics историја, прва светска војна
-#source John Zerzan, Elements of Refusal, CAL Press 1999 (1st Edition, 1988). Download:
+#source John Zerzan, Elements of Refusal, CAL Press 1999 (1st Edition, 1988). 
 #date 1981
 #notes Наслов на оригиналот: Origins and Meaning of WWI. Превод: Стефан Симоновски.
 #lang mk
@@ -433,5 +433,6 @@
 [112] Наведено во Eric J. Leed’s, „Class and Disillusionment in World War I“, <em>Journal of Modern History,</em> 50 (December 1978), p. 691.
 
  
+
 
 
