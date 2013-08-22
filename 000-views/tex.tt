@@ -553,7 +553,7 @@ end
 \blank[small]
 }
 \blank[small]
-\currentdate[d,.~,mm,.~,y,.]
+\currentdate[dd,.~,mm,.~,y,.]
 \stopalignment
 
 \vfill
