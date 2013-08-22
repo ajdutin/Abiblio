@@ -602,6 +602,12 @@ end
 
 \stopalignment
 
+\blank[line]
+
+\startalignment[middle]
+{\bf http://mk.theanarchistlibrary.org}
+\stopalignment
+
 \stoptext
 
 
