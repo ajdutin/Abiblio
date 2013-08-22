@@ -556,6 +556,10 @@ end
 \currentdate[dd,.~,mm,.~,y,.]
 \stopalignment
 
+\blank[big]
+\framed[frame=off,location=middle,width=\textwidth]
+       {\externalfigure[logo-mk][width=0.25\textwidth]}
+
 \vfill
 \setupindenting[no]
 \setsmallbodyfont
