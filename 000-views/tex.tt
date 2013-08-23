@@ -12,7 +12,7 @@
 \setbreakpoints[compound]
 \setupindenting[yes,1em]
 \setupfootnotes[way=bychapter,align={hz,hanging}]
-\setupbodyfont[dejavu]
+\setupbodyfont[libertine,11pt]
 
 \setuppagenumbering[alternative=singlesided,location={footer,middle}]
 \setupcaptions[width=fit,align={hz,hanging},number=no]
