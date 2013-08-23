@@ -520,7 +520,7 @@ end
 
 <% IF meta.texwantstoc %>
 
-\title{Contents}
+\title{Содржина}
 
 \placelist[awikipart,chapter,section,subsection]
 
