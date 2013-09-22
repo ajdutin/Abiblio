@@ -1,6 +1,6 @@
 #title Вовед во „Политичката илузија“
 #author Жак Елил
-#SORTauthors Жал Елил (Jacques Ellul)
+#SORTauthors Жак Елил (Jacques Ellul)
 #SORTtopics демократија, политичка филозофија, социологија 
 #source Jacques Ellul,  *L'illusion politique*. Paris: Robert Laffont, 1965.  *The Political Illusion*. Trans. Konrad Kellen. New York: Knopf 1967. New York: Vintage 1972. стр. 2–7
 #date 1965
@@ -35,5 +35,6 @@
 [4] Francois Bourricaud, <em>Esquisse d’une theorie de l’autorite</em>, Paris, Plon, 1961.
 
  
+
 
 
