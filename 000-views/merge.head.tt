@@ -23,10 +23,8 @@
 \setbreakpoints[compound]
 \setupindenting[yes,1em]
 \setupfootnotes[way=bychapter,align={hz,hanging}]
-\setupbodyfont[xits,11pt]
+\setupbodyfont[libertine,11pt]
 \setupcaptions[width=\textwidth]
-
-\setupbodyfontenvironment[default][em=italic]
 
 <% IF imposed %>
 \setuppagenumbering[alternative=doublesided,location={footer,middle}]
