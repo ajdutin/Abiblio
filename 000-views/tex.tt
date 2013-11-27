@@ -22,9 +22,6 @@
   \setuppagenumbering[alternative=doublesided]
 \stopmode
 
-\setupbodyfontenvironment[default][em=italic]
-
-
 \setupheads[%
   sectionnumber=no,number=no,
   align=flushleft,
