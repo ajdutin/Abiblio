@@ -1,7 +1,7 @@
 #title Не нудиме ништо
 #author Масимо Пасамани
 #SORTauthors Масимо Пасамани (Massimo Passamani) 
-#SORTtopics инсурекционизам 
+#SORTtopics индивидуализам инсурекционизам 
 #source „Nothing to Offer“, More, Much More and Other Writings [[http://theanarchistlibrary.org/library/massimo-passamani-more-much-more-and-other-writings#toc7][theanarchistlibrary.org]]
 #notes Текстот изворно е објавен во италијанското списание  *Canenero*.
 #lang mk
@@ -38,5 +38,6 @@
 Но, некои велат дека промената е можна само со други. Точно. Но тоа „со“ можам да го сфатам само како секој за себе. Сакам соучесници, а не стадо. Во спротивно, сѐ што ќе можеме да делиме со тоа „со“ е нашето ропство.
 
  
+
 
 
