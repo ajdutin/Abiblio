@@ -2,9 +2,9 @@
 #author Петар Кропоткин
 #SORTauthors Петар Кропоткин
 #SORTtopics анархизам 
-#source Извор за преводот: Petar Kropotkin  *Anarhizam i moral*, Prosveta, Beograd, 1984, str. 220–222. [[http://anarhisticka-biblioteka.net/library/petar-kropotkin-poruka-cehoslovackim-radnicima][anarhisticka-biblioteka.net]] Превод: Иван Шопов
+#source Извор за преводот: Petar Kropotkin  *Anarhizam i moral*, Prosveta, Beograd, 1984, стр. 220–222. [[http://anarhisticka-biblioteka.net/library/petar-kropotkin-poruka-cehoslovackim-radnicima][anarhisticka-biblioteka.net]] Превод: Иван Шопов
 #date 1920
-#notes Објавено во мемоарите на Hugo Sonnenschein, кому 1920 Кропоткин му го предал текстот на писмото: Die goldenen Ritter der Freiheit oder Tschechoslowakische Demokratie. Tagebuch meiner Kuttenberger Haft, Leipzig und Wien, 1921. 
+#notes Објавено во мемоарите на Hugo Sonnenschein, кому 1920 Кропоткин му го предал текстот на писмото:  *Die goldenen Ritter der Freiheit oder Tschechoslowakische Demokratie. Tagebuch meiner Kuttenberger Haft*, Leipzig und Wien, 1921. 
 #lang mk
 
 
@@ -29,5 +29,6 @@
 Историјата се движи во овој правец. Па, да појдеме храбро на работа!
 
 Да завршиме со предрасудите за капиталот како добротвор и државата како провидение! Во нашите групи, на нашите конгреси, во нашите синдикати и комуни ќе се најдат доволно сили за изградба на едно ново општество, општество на трудот и слободата, во кое нема да има капитал, држава и култ кон авторитетот.
+
 
 
