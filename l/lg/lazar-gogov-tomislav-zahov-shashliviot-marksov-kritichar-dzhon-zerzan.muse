@@ -4,7 +4,7 @@
 #SORTtopics марксизам, анархизам
 #source http://narodenprijatel.wordpress.com/2014/05/25/
 #lang mk
-#DELETED
+#DELETED Така на друго место... овде не...
 
 
 <center>
@@ -180,6 +180,7 @@
 [6] Richard Drake, <em>Apostles and Agitators. Italy's Marxist Revolutionary Tradition</em>.
 
  
+
 
 
 
