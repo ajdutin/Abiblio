@@ -4,7 +4,7 @@
 #SORTauthors Емил Анри (Émile Henry)
 #SORTtopics историја, насилство/ненасилство, пропаганда преку дела
 #date 1894
-#source [[http://theanarchistlibrary.org/library/emile-henry-emile-henry-s-defense][theanarchistlibrary.org]]
+#source [[http://theanarchistlibrary.org/library/emile-henry-emile-henry-s-defense][theanarchistlibrary.org]] [[http://anarhisticka-biblioteka.net/library/unisti-strasno#toc9][anarhisticka-biblioteka.net]]
 #notes Превод: Ива
 #lang mk
 #pubdate 2014-10-29T15:21:24
