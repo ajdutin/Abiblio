@@ -5,7 +5,7 @@
 #SORTauthors Алфредо Коспито (Alfredo Cospito)
 #SORTtopics анархизам, директна акција, насилство/ненасилство, инсурекционизам, индивидуализам, нихилизам
 #date 2014
-#source http://zagovornaednakvite.info/?p=447 http://yu.radioazione.org/2014/08/grckaitalija-intervju-zavjere-vatrenih-celija-s-alfredom-cospitom/
+#source [[http://zagovornaednakvite.info/?p=447][zagovornaednakvite.info]] [[http://yu.radioazione.org/2014/08/grckaitalija-intervju-zavjere-vatrenih-celija-s-alfredom-cospitom/][radioazione.org]] [[https://interarma.info/2014/11/28/synentefksi_pyrina_fylakismenon_melon_spf_me_alfredo_cospito/?lang=en][interarma.info]]
 #lang mk
 #pubdate 2014-12-08T23:20:33
 
