@@ -1,6 +1,6 @@
 #title Отаде ’Движењето‘ - Анархија!
-#author DMP
-#SORTauthors DMP
+#author ДМП
+#SORTauthors ДМП (DMP)
 #SORTtopics анархизам, идеологија, нихилизам 
 #source [[http://zagovornaednakvite.info/?p=293][zagovornaednakvite.info]]
 #date 2013
