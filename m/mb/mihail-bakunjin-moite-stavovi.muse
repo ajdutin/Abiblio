@@ -2,7 +2,7 @@
 #author Михаил Бакунин
 #SORTauthors Михаил Бакунин
 #SORTtopics анархизам 
-#source Bakunin's Writings, Guy A. Aldred Modern Publishers, Indore Kraus Reprint co. New York 1947.
+#source  *Bakunin's Writings*, Guy A. Aldred Modern Publishers, Indore Kraus Reprint co. New York 1947.
 #date 1862
 #lang mk
 
