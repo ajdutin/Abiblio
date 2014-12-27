@@ -1,7 +1,7 @@
 #title Опаѓањето и пропаста на стоковата економија на спектаклот
 #author Ги Дебор
 #LISTtitle Опаѓањето и пропаста на стоковата економија на спектаклот
-#SORTauthors Ги Дебор (Guy Debord)
+#SORTauthors Ги Дебор (Guy Debord), Ситуационистичка интернационала (Internationale situationniste)
 #SORTtopics ситуационизам
 #date 1965
 #source  *Situationist International Anthology*, Bureau of Public Secrets, 1981 (1989, 1995, 2006); edited and translated by Ken Knabb [[http://www.bopsecrets.org/SI/10.Watts.htm][bopsecrets.org]]
