@@ -1,8 +1,8 @@
 #title Да се убие кралот Абакус
-#author Killing King Abacus
-#SORTauthors Кilling Кing Abacus
+#author „Killing King Abacus“
+#SORTauthors „Killing King Abacus“
 #SORTtopics инсурекционизам
-#source [[http://www.reocities.com/kk_abacus/][reocities.com/kk_abacus]]
+#source [[http://www.reocities.com/kk_abacus/][killing king abacus]]
 #date 2000
 #notes редакциски уводник на списанието *Killing King Abacus* #1, Santa Cruz, California 2000.
 #lang mk
