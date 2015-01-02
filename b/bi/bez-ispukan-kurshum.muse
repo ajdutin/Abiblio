@@ -3,7 +3,7 @@
 #SORTauthors непознат автор
 #SORTtopics насилство/ненасилство
 #date 2008
-#source crnblok.blogspot.com, јануари 2014; anarhisticka-biblioteka.net
+#source [[http://crnblok.blogspot.com/2014/01/blog-post_12.html][crnblok.blogspot.com]], јануари 2014; [[http://anarhisticka-biblioteka.net/library/anon-bez-ispaljenog-metka][anarhisticka-biblioteka.org]]
 #lang mk
 #pubdate 2015-01-02T13:26:00
 #notes Наслов на оригиналот: <em>Senza colpo ferire</em>. Објавено во <em>Machete</em> #3, ноември 2008, Италија
