@@ -2,7 +2,7 @@
 #author „Killing King Abacus“
 #SORTauthors „Killing King Abacus“
 #SORTtopics инсурекционизам
-#source [[http://www.reocities.com/kk_abacus/intro.html][killing king abacus]]
+#source [[http://www.reocities.com/kk_abacus/intro.html][reocities.com/kk_abacus/intro]]
 #date 2000
 #notes редакциски уводник на списанието *Killing King Abacus* #1, Santa Cruz, California 2000.
 #lang mk
