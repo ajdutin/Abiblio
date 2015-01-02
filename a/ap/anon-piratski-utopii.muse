@@ -1,11 +1,11 @@
 #title Пиратски утопии
 #subtitle Под знамето на кралот на смртта
-#author Anon
-#SORTauthors Anon
+#author
+#SORTauthors непознат автор
 #SORTtopics пирати, историја, утопии, отпор
 #source Do or Die #8, 1999. [[http://www.eco-action.org/dod/no8/pirate.html][eco-action.org]]
 #date 1999
-#notes Наслов на оригиналот: Pirate Utopias - Under the Banner of King Death. Превод: Стефан Симоновски.
+#notes Наслов на оригиналот: *Pirate Utopias - Under the Banner of King Death*. Превод: Стефан Симоновски.
 #lang mk
 
 
