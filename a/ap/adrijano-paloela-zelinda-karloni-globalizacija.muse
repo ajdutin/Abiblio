@@ -3,9 +3,9 @@
 #author Aдријано Палоела, Ѕелинда Карлони
 #SORTauthors Aдријано Палоела (Аdriano Paloella), Ѕелинда Карлони (Zelinda Carloni)
 #SORTtopics глобализација, капитализам, неолиберализам, отпор
-#source ArivistA #274, лето 2001.
+#source *ArivistA* #274, лето 2001.
 #date 2001
-#notes Наслов на оригиналот:Globalisation: Ideas for understanding, living with and opposing the new model of profit-making. Првпат објавено oд Плоштад Слобода, Скопје, 2003. Превод: Боро Китаноски, 2002.
+#notes Наслов на оригиналот: "Globalisation: Ideas for understanding, living with and opposing the new model of profit-making". Првпат објавено oд Плоштад Слобода, Скопје, 2003. Превод: Боро Китаноски, 2002.
 #lang mk
 
 
