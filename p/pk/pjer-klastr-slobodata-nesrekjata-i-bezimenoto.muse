@@ -3,7 +3,7 @@
 #author Пјер Кластр
 #SORTauthors Пјер Кластр (Pierre Clastres)
 #SORTtopics антропологија
-#source [[anarhija-blok45.net1zen.com][anarhija-blok45]]; „Liberté, malencontre, innommable: La Boétie et la question du politique“, Rechereches d’anthropologie politique; Editions de Seuil, Paris, 1980. „Freedom, Misfortune, the Unnameable“, Archeology of Violence, SEMITOTEXT(E), 1994.
+#source [[anarhija-blok45.net1zen.com][anarhija-blok45]]; „Liberté, malencontre, innommable: La Boétie et la question du politique“, *Rechereches d’anthropologie politique*; Editions de Seuil, Paris, 1980. „Freedom, Misfortune, the Unnameable“, *Archeology of Violence*, SEMITOTEXT(E), 1994.
 #date 1976
 #notes Превод: Алек Кузмановски, 2013.
 #lang mk
