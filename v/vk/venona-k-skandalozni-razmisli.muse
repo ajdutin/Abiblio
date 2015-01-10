@@ -5,7 +5,7 @@
 #SORTtopics анархизам, инсурекционизам, насилство/ненасилство
 #source [[http://325.nostate.net/?p=5371][325.nostate.net]]
 #date 2012
-#notes Наслов на оригиналот: Scandalous thoughts: a few notes on civil anarchism. Превод: Стефан Симоновски, 2013.
+#notes Наслов на оригиналот: "Scandalous thoughts: a few notes on civil anarchism". Превод: Стефан Симоновски, 2013.
 #lang mk
 
 
