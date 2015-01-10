@@ -5,7 +5,7 @@
 #SORTtopics анархизам, филозофија, примитивизам
 #source [[http://theanarchistlibrary.org/library/pendleton-vandiver-anarchist-epistemology][theanarchistlibrary.org]]
 #date 2001
-#notes Наслов на оригиналот: Anarchist Epistemology. Превод: Стефан Симоновски
+#notes Наслов на оригиналот: *Anarchist Epistemology*. Превод: Стефан Симоновски
 #lang mk
 
 
