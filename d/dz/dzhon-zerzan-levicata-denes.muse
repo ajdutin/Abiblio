@@ -3,7 +3,7 @@
 #SORTauthors Џон Зерзан (John Zerzan)
 #SORTtopics левица
 #source [[http://theanarchistlibrary.org/library/john-zerzan-the-left-today][theanarchistlibrary.org]]
-#notes Наслов на оригиналот: The Left Today; превод: Стефан Симоновски
+#notes Наслов на оригиналот: *The Left Today*; превод: Стефан Симоновски
 #lang mk
 
 
