@@ -3,9 +3,9 @@
 #author Волфи Ландстрајкер
 #SORTauthors Волфи Ландстрајкер (Wolfi Landstreicher), Ферал Фаун (Feral Faun)
 #SORTtopics инсурекционизам, анархизам
-#source A Journal Of Desire Armed #24, March-April 1990. [[http://theanarchistlibrary.org/library/feral-faun-essays#toc7][theanarchistlibrary.org]]
+#source *Anarchy: A Journal Of Desire Armed* #24, March-April 1990. [[http://theanarchistlibrary.org/library/feral-faun-essays#toc7][theanarchistlibrary.org]]
 #date 1990
-#notes Наслов на оригиналот: The Cops In Our Heads: Some thoughts on anarchy and morality. Превод: Стефан Симоновски, 2004.
+#notes Наслов на оригиналот: "The Cops In Our Heads: Some thoughts on anarchy and morality". Превод: Стефан Симоновски, 2004.
 #lang mk
 
 
