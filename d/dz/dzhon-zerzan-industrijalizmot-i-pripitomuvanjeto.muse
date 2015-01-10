@@ -4,7 +4,7 @@
 #SORTtopics индустријализам, индустриска револуција, историја, лудизам 
 #source John Zerzan, *Elements of Refusal*, CAL Press 1999 (1st Edition, 1988).
 #date 1977
-#notes Наслов на оригиналот: Industrialism and Domestication. Првпат објавено во  *Fifth Estate*, октомври-ноември 1977. Превод: Стефан Симоновски.
+#notes Наслов на оригиналот: "Industrialism and Domestication". Првпат објавено во  *Fifth Estate*, октомври-ноември 1977. Превод: Стефан Симоновски.
 #lang mk
 
 
