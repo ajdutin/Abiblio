@@ -3,7 +3,7 @@
 #SORTauthors Роберт Антон Вилсон (Robert Anton Wilson)
 #SORTtopics надреализам, психологија
 #source [[http://www.rawilson.com/csicon.html][rawilson.com]] [[http://theanarchistlibrary.org/library/robert-anton-wilson-committee-for-surrealist-investigation-of-claims-of-the-normal][theanarchistlibrary.org]]
-#notes Наслов на оригиналот: Committee for Surrealist Investigation of Claims of the Normal. Превод: Стефан Симоновски, 2010.
+#notes Наслов на оригиналот: *Committee for Surrealist Investigation of Claims of the Normal*. Превод: Стефан Симоновски, 2010.
 #lang mk
 
 <quote>
