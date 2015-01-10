@@ -2,9 +2,9 @@
 #author Лоренс Џарач
 #SORTauthors Лоренс Џарач (Lawrence Jarach)
 #SORTtopics анархизам, левица, историја
-#source Anarchy: A Journal of Desire Armed #48 (Fall/Winter 1999–2000) [[http://theanarchistlibrary.org/library/lawrence-jarach-anarchists-don-t-let-the-left-overs-ruin-your-appetite][theanarchistlibrary.org]]
+#source *Anarchy: A Journal of Desire Armed* #48, Fall/Winter 1999–2000 [[http://theanarchistlibrary.org/library/lawrence-jarach-anarchists-don-t-let-the-left-overs-ruin-your-appetite][theanarchistlibrary.org]]
 #date 1999
-#notes Наслов на оригиналот: Anarchists, Don’t let the Left(overs) Ruin your Appetite. Превод: Стефан Симоновски, 2013.
+#notes Наслов на оригиналот: *Anarchists, Don’t let the Left(overs) Ruin your Appetite*. Превод: Стефан Симоновски, 2013.
 #lang mk
 
 
