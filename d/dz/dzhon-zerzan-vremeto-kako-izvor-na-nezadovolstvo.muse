@@ -4,7 +4,7 @@
 #SORTtopics отуѓување, психологија, социологија, критика на цивилизацијата 
 #source John Zerzan,  *Running on Emptiness: The Pathology of Civilization*, Feral House, 2005. [[http://theanarchistlibrary.org/library/john-zerzan-time-and-its-discontents][theanarchistlibrary.org]]
 #date 1994
-#notes Наслов на оригиналот: Time and its Discontents. Првпат објавено во  *Anarchy*, зима 1994. Превод: Стефан Симоновски.
+#notes Наслов на оригиналот: *Time and its Discontents*. Првпат објавено во  *Anarchy*, зима 1994. Превод: Стефан Симоновски.
 #lang mk
 
 
