@@ -3,9 +3,9 @@
 #author Џон Зерзан
 #SORTauthors Џон Зерзан (John Zerzan) 
 #SORTtopics лудизам, синдикализам, индустриска револуција, критика на работата
-#source John Zerzan, Elements of Refusal, CAL Press 1999 (1st Edition, 1988).
+#source John Zerzan, *Elements of Refusal*, CAL Press 1999 (1st Edition, 1988).
 #date 1976
-#notes Наслов на оригиналот: Who Killed Ned Ludd? Machine-Breaking at the Dawn of Capitalism. Првпат објавено во Fifth Estate, април 1976. Превод: Стефан Симоновски.
+#notes Наслов на оригиналот: "Who Killed Ned Ludd? Machine-Breaking at the Dawn of Capitalism". Првпат објавено во *Fifth Estate*, април 1976. Превод: Стефан Симоновски.
 #lang mk
 
 
