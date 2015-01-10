@@ -2,9 +2,9 @@
 #author Боб Блек
 #SORTauthors Боб Блек (Bob Black)
 #SORTtopics критика на работата
-#source Bob Black, Friendly Fire, Autonomedia 1992.
+#source Bob Black, *Friendly Fire*, Autonomedia 1992.
 #date 1992
-#notes Наслов на оригиналот: No Future for the Workplace. Првпат објавено во збирката Боб Блек, Работници од сите земји... одморете се!, Плоштад Слобода, Скопје, 2004. Превод: Стефан Симоновски, 2003
+#notes Наслов на оригиналот:  *No Future for the Workplace*. Првпат објавено во збирката Боб Блек, *Работници од сите земји... одморете се!*, Плоштад Слобода, Скопје, 2004. Превод: Стефан Симоновски, 2003
 #lang mk
 
 
