@@ -3,7 +3,7 @@
 #SORTauthors Волфи Ландстрајкер (Wolfi Landstreicher), Ферал Фаун (Feral Faun) 
 #SORTtopics анархосиндикализам, синдикализам, критика на работата 
 #source [[http://theanarchistlibrary.org/library/feral-faun-essays#toc21][theanarchistlibrary.org]]
-#notes Наслов на оригиналот: The Bourgeois Roots of Anarcho-Syndicalism. Превод: Стефан Симоновски.
+#notes Наслов на оригиналот: *The Bourgeois Roots of Anarcho-Syndicalism*. Превод: Стефан Симоновски.
 #lang mk
 
 
