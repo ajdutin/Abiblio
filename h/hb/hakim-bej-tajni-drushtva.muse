@@ -2,9 +2,9 @@
 #author Хаким Беј
 #SORTauthors Хаким Беј (Hakim Bey) 
 #SORTtopics организација, активизам, отпор, социологија 
-#source Hakim Bey, Immediatism, AK Press, Edinburgh/San Francisco, 1994.
+#source Hakim Bey, *Immediatism*, AK Press, Edinburgh/San Francisco, 1994.
 #date 1992
-#notes Наслов на оригиналот: The Tong. Превод: Стефан Симоновски.
+#notes Наслов на оригиналот: "The Tong". Превод: Стефан Симоновски.
 #lang mk
 
 
