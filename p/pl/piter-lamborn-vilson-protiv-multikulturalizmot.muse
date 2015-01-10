@@ -4,7 +4,7 @@
 #SORTauthors Питер Ламборн Вилсон (Peter Lamborn Wilson)
 #SORTtopics мултикултурализам, отпор 
 #source [[http://hermetic.com/bey/pw-multicul.html][hermetic.com]]
-#notes Наслов на оригиналот: Against Multiculturalism. Превод: Стефан Симоновски, 2010.
+#notes Наслов на оригиналот: *Against Multiculturalism*. Превод: Стефан Симоновски, 2010.
 #lang mk
 
 
