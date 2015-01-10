@@ -2,9 +2,9 @@
 #author Волфи Ландстрајкер
 #SORTauthors Волфи Ландстрајкер (Wolfi Landstreicher), Ферал Фаун (Feral Faun)
 #SORTtopics инсурекционизам, демократија
-#source Willful Disobedience, Volume 2, number 5, 2001. [[http://theanarchistlibrary.org/library/various-authors-essays-from-willful-disobedience-volume-1-2#toc1][theanarchistlibrary.org]]
+#source *Willful Disobedience*, Volume 2, number 5, 2001. [[http://theanarchistlibrary.org/library/various-authors-essays-from-willful-disobedience-volume-1-2#toc1][theanarchistlibrary.org]]
 #date 2001
-#notes Наслов на оригиналот: The Paltry Ideal of Democracy. Превод: Стефан Симоновски, 2004.
+#notes Наслов на оригиналот: *The Paltry Ideal of Democracy*. Превод: Стефан Симоновски, 2004.
 #lang mk
 
 
