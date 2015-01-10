@@ -5,7 +5,7 @@
 #SORTtopics критика на цивилизацијата, примитивизам 
 #source [[http://theanarchistlibrary.org/library/wolfi-landstreicher-barbaric-thoughts-on-a-revolutionary-critique-of-civilization#toc4][theanarchistlibrary.org]]
 #date 2004
-#notes Наслов на оригиналот: Barbaric Thoughts: On a Revolutionary Critique of Civilization. Превод: Стефан Симоновски.
+#notes Наслов на оригиналот: "Barbaric Thoughts: On a Revolutionary Critique of Civilization". Превод: Стефан Симоновски.
 #lang mk
 
 
