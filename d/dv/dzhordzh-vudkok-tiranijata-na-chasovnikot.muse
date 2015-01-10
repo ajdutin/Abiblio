@@ -4,7 +4,7 @@
 #SORTtopics капитализам, критика на цивилизацијата, техника/технологија 
 #source [[http://theanarchistlibrary.org/library/george-woodcock-the-tyranny-of-the-clock][theanarchistlibrary.org]]
 #date 1944
-#notes Првпат објавено во  *War Commentary - For Anarchism*, средина на март 1944. Превод: Иван Шопов
+#notes Наслов на оригиналот: "The Tyranny of the Clock". Првпат објавено во  *War Commentary - For Anarchism*, средина на март 1944. Превод: Иван Шопов
 #lang mk
 
 
