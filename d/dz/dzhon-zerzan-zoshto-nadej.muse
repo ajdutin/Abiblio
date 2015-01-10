@@ -4,7 +4,7 @@
 #SORTtopics анархизам, примитивизам 
 #source [[http://anarhisticka-biblioteka.net/library/john-zerzan-zasto-nada#fn_back10][anarhisticka-biblioteka.net]] [[https://www.anarchistnews.org/content/why-hope][www.anarchistnews.org]]
 #date 2013
-#notes Наслов на оригиналот: Why Hope? Превод: Иван Шопов
+#notes Наслов на оригиналот: "Why Hope?" Превод: Иван Шопов
 #lang mk
 
 
