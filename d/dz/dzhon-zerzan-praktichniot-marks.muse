@@ -2,9 +2,9 @@
 #author Џон Зерзан
 #SORTauthors Џон Зерзан (John Zerzan) 
 #SORTtopics историја, левица, марксизам
-#source John Zerzan, Elements of Refusal, CAL Press 1999 (1st Edition, 1988).
+#source John Zerzan, *Elements of Refusal*, CAL Press 1999 (1st Edition, 1988).
 #date 1979
-#notes Наслов на оригиналот: The Practical Marx. Првпат објавено во  *Fifth Estate*, октомври 1979. Превод: Стефан Симоновски, 2004.
+#notes Наслов на оригиналот: "The Practical Marx". Првпат објавено во  *Fifth Estate*, октомври 1979. Превод: Стефан Симоновски, 2004.
 #lang mk
 
 
