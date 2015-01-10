@@ -2,9 +2,9 @@
 #author Џон Зерзан
 #SORTauthors Џон Зерзан (John Zerzan) 
 #SORTtopics критика на цивилизацијата, историја 
-#source John Zerzan,  *Elements of Refusal* , CAL Press 1999 (1st Edition, 1988). [[http://theanarchistlibrary.org/library/john-zerzan-language-origin-and-meaning][theanarchistlibrary.org]]
+#source John Zerzan,  *Elements of Refusal*, CAL Press 1999 (1st Edition, 1988). [[http://theanarchistlibrary.org/library/john-zerzan-language-origin-and-meaning][theanarchistlibrary.org]]
 #date 1984
-#notes Наслов на оригиналот: Language: Origin and Meaning. Првпат објавено во  *Fifth Estate*, зима 1984. Превод: Стефан Симоновски.
+#notes Наслов на оригиналот: "Language: Origin and Meaning". Првпат објавено во  *Fifth Estate*, зима 1984. Превод: Стефан Симоновски.
 #lang mk
 
 
