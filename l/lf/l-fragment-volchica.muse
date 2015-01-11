@@ -4,7 +4,7 @@
 #SORTtopics анархизам, инсурекционизам, насилство/ненасилство 
 #source [[http://325.nostate.net/?p=8391][325.nostate.net]]
 #date 2012
-#notes Наслов на оригиналот: Fragment: The She-Wolf. Изворно објавено во ‘My Own’ #6 by Apio Ludd (22 ноември, 2012). Превод: Стефан Симоновски, 2013.
+#notes Наслов на оригиналот: *Fragment: The She-Wolf*. Изворно објавено во  *My Own* #6 by Apio Ludd (22 ноември, 2012). Превод: Стефан Симоновски, 2013.
 #lang mk
 
 
