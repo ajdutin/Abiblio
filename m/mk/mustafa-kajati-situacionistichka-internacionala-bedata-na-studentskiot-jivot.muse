@@ -7,7 +7,7 @@
 #date 1966
 #source  *Situationist International Anthology*, Bureau of Public Secrets, 1981 (1989, 1995, 2006); edited and translated by Ken Knabb [[http://www.bopsecrets.org/SI/poverty.htm][bopsecrets.org]]
 #lang mk
-#pubdate 2015-01-11T22:56:03
+#pubdate 
 #notes Наслов на оригиналот: <em>De la misère en milieu étudiant</em>, UNEF, Strasbourg, 1966. [[http://library.nothingness.org/articles/4/fr/display/12][nothingness.org]] Превод: Стефан Симоновски.
 
 
