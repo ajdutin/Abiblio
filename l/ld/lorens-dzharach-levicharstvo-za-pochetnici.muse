@@ -2,9 +2,9 @@
 #author Лоренс Џарач
 #SORTauthors Лоренс Џарач (Lawrence Jarach)
 #SORTtopics историја, левица 
-#source Green Anarchy #15, winter 2004; [[http://theanarchistlibrary.org/library/lawrence-jarach-leftism-101][theanarchistlibrary.org]]
+#source *Green Anarchy* #15, winter 2004; [[http://theanarchistlibrary.org/library/lawrence-jarach-leftism-101][theanarchistlibrary.org]]
 #date 2004
-#notes Наслов на оригиналот: Leftism 101; како дел од тематот Back to Basics volume #2 — The Problem of the Left. Превод: Стефан Симоновски, 2014.
+#notes Наслов на оригиналот: "Leftism 101"; како дел од тематот *Back to Basics* volume #2 — The Problem of the Left. Превод: Стефан Симоновски, 2014.
 #lang mk
 
 
