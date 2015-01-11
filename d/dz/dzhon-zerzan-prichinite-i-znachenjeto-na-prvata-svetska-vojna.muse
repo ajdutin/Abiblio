@@ -4,7 +4,7 @@
 #SORTtopics историја, прва светска војна
 #source John Zerzan,  *Elements of Refusal*, CAL Press 1999 (1st Edition, 1988).
 #date 1981
-#notes Наслов на оригиналот: Origins and Meaning of WWI. Првпат објавено во  *Telos* no. 49, есен 1981. Превод: Стефан Симоновски.
+#notes Наслов на оригиналот: "Origins and Meaning of WWI". Првпат објавено во  *Telos* no. 49, есен 1981. Превод: Стефан Симоновски.
 #lang mk
 
 
