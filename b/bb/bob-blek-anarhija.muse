@@ -3,9 +3,9 @@
 #author Боб Блек
 #SORTauthors Боб Блек (Bob Black) 
 #SORTtopics анархизам
-#source Anarchy: A Journal of Desire Armed no. 60, 2005. [[http://theanarchistlibrary.org/library/bob-black-anarchy-101][theanarchistlibrary.org]]
+#source *Anarchy: A Journal of Desire Armed* no. 60, 2005. [[http://theanarchistlibrary.org/library/bob-black-anarchy-101][theanarchistlibrary.org]]
 #date 2005
-#notes Наслов на оригиналот: Anarchy 101. Превод: Стефан Симоновски, 2007.
+#notes Наслов на оригиналот: *Anarchy 101*. Превод: Стефан Симоновски, 2007.
 #lang mk
 
 
