@@ -4,7 +4,7 @@
 #SORTtopics анархизам, отпор 
 #source [[http://anarhisticka-biblioteka.net/library/anarhisti-mi-nismo-robovi-mi-smo-eksploziv][anarhisticka-biblioteka.net]] [[http://www.non-fides.fr/?We-are-not-slaves-we-are-dynamite][non-fides.fr]] [[http://journalhorsservice.blogspot.fr/2013/03/hors-service-n34.html][journalhorsservice.blogspot.fr]]
 #date 2009/2013
-#notes Текст на плакатот за солидарност со Алфредо Бонано и Христос Стратигопулос, 2009. Појаснување на плакатот објавено во Horse Service #34, март 2013.
+#notes Текст на плакатот за солидарност со Алфредо Бонано и Христос Стратигопулос, 2009. Појаснување на плакатот објавено во *Horse Service* #34, март 2013.
 Превод: Стефан Симоновски.
 #lang mk
 
