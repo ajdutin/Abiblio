@@ -3,9 +3,9 @@
 #author Џон Мур
 #SORTauthors Џон Мур (John Moore)
 #SORTtopics примитивизам
-#source Green Anarchist #38, Summer 1995. [[http://theanarchistlibrary.org/library/john-moore-comin-home-defining-anarcho-primitivism#toc1][theanarchistlibrary.org]]
+#source *Green Anarchist* #38, Summer 1995. [[http://theanarchistlibrary.org/library/john-moore-comin-home-defining-anarcho-primitivism#toc1][theanarchistlibrary.org]]
 #date 1995
-#notes Наслов на оригиналот: Comin’ Home: Defining Anarcho-primitivism. Првпат објавено во списанието за интеграции и различности Маргина #57-59, 2003 како дел од тематот насловен „Примитивизам“. Превод: Стефан Симоновски, 2003.
+#notes Наслов на оригиналот: "Comin’ Home: Defining Anarcho-primitivism". Првпат објавено во списанието за интеграции и различности *Маргина* #57-59, 2003 како дел од тематот насловен „Примитивизам“. Превод: Стефан Симоновски, 2003.
 #lang mk
 
 
