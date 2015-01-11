@@ -2,9 +2,9 @@
 #author Андре Горц
 #SORTauthors Андре Горц (André Gorz)
 #SORTtopics отуѓување, социологија, критика на цивилизацијата 
-#source Le Sauvage, септември-октомври 1973
+#source *Le Sauvage*, септември-октомври 1973
 #date 1973
-#notes Наслов на оригиналот: L’idéologie sociale de la bagnole. Превод: Стефан Симоновски.
+#notes Наслов на оригиналот: "L’idéologie sociale de la bagnole". Превод: Стефан Симоновски.
 #lang mk
 
 
