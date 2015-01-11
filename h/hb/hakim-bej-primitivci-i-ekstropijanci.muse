@@ -4,7 +4,7 @@
 #SORTtopics примитивизам, футуризам, техника/технологија
 #source Anarchy: a journal of desire armed #42, есен 1995 [[http://theanarchistlibrary.org/library/hakim-bey-primitives-and-extropians#][theanarchistlibrary.org]]
 #date 1995
-#notes Наслов на оригиналот: Primitives and Extropians. Првпат објавено во списанието за интеграции и различности Маргина #57-59, 2003 како дел од тематот насловен „Примитивизам“. Превод: Стефан Симоновски, 2003.
+#notes Наслов на оригиналот: *Primitives and Extropians*. Првпат објавено во списанието за интеграции и различности *Маргина* #57-59, 2003 како дел од тематот насловен „Примитивизам“. Превод: Стефан Симоновски, 2003.
 #lang mk
 
 
