@@ -2,7 +2,7 @@
 #author Масимо Пасамани
 #SORTauthors Масимо Пасамани (Massimo Passamani) 
 #SORTtopics индивидуализам, инсурекционизам 
-#source „Nothing to Offer“, More, Much More and Other Writings [[http://theanarchistlibrary.org/library/massimo-passamani-more-much-more-and-other-writings#toc7][theanarchistlibrary.org]]
+#source „Nothing to Offer“, *More, Much More and Other Writings* [[http://theanarchistlibrary.org/library/massimo-passamani-more-much-more-and-other-writings#toc7][theanarchistlibrary.org]]
 #notes Текстот изворно е објавен во италијанското анархистичко списание  *Canenero*.
 #lang mk
 
