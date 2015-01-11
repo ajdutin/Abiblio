@@ -2,9 +2,9 @@
 #author Боб Блек
 #SORTauthors Боб Блек (Bob Black)
 #SORTtopics критика на работата
-#source Bob Black, The Abolition of Work and Other Essays, Loompanics, 1985. [[http://theanarchistlibrary.org/library/bob-black-the-abolition-of-work][theanarchistlibrary.org]]
+#source Bob Black, *The Abolition of Work and Other Essays*, Loompanics, 1985. [[http://theanarchistlibrary.org/library/bob-black-the-abolition-of-work][theanarchistlibrary.org]]
 #date 1985
-#notes Наслов на оригиналот: The Abolition of Work. Превод: Стефан Симоновски, 2002. Првпат објавено во списанието за интеграции и различности Маргина #55/56, 2002. Објавено и во збирката Боб Блек, Работници од сите земји... одморете се!, Плоштад Слобода, Скопје, 2004.
+#notes Наслов на оригиналот: "The Abolition of Work". Превод: Стефан Симоновски, 2002. Првпат објавено во списанието за интеграции и различности *Маргина* #55/56, 2002. Објавено и во збирката *Боб Блек, Работници од сите земји... одморете се!*, Плоштад Слобода, Скопје, 2004.
 #lang mk
 
 
