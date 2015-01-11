@@ -2,9 +2,9 @@
 #author Дерик Џенсен
 #SORTauthors Дерик Џенсен (Derrick Jensen)
 #SORTtopics критика на цивилизацијата
-#source Green Anarchy #9, Summer 2002.
+#source *Green Anarchy* #9, Summer 2002.
 #date 2002
-#notes Наслов на оригиналот: Industrialism Must Go! Превод: Стефан Симоновски, 2005.
+#notes Наслов на оригиналот: *Industrialism Must Go!* Превод: Стефан Симоновски, 2005.
 #lang mk
 
 
