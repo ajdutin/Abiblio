@@ -3,7 +3,7 @@
 #SORTauthors Елизе Рекли (Elisée Reclus)
 #SORTtopics анархизам, демократија
 #source [[http://theanarchistlibrary.org/library/elisee-reclus-why-anarchists-don-t-vote#][theanarchistlibrary.org]]
-#notes Превод: Стефан Симоновски; оригинално објавено во Mother Earth
+#notes Превод: Стефан Симоновски; оригинално објавено во *Mother Earth*
 #lang mk
 
 
