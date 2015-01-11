@@ -2,9 +2,9 @@
 #author Боб Блек
 #SORTauthors Боб Блек (Bob Black) 
 #SORTtopics анархизам, постмодернизам
-#source Green Anarchy #16, spring 2004; [[http://theanarchistlibrary.org/library/bob-black-theses-on-anarchism-after-post-modernism][theanarchistlibrary.org]]
+#source *Green Anarchy* #16, spring 2004; [[http://theanarchistlibrary.org/library/bob-black-theses-on-anarchism-after-post-modernism][theanarchistlibrary.org]]
 #date 2004
-#notes Наслов на оригиналот: Theses on Anarchism After Post-Modernism. Превод: Стефан Симоновски, 2005.
+#notes Наслов на оригиналот: "Theses on Anarchism After Post-Modernism". Превод: Стефан Симоновски, 2005.
 #lang mk
 
 
