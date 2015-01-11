@@ -4,7 +4,7 @@
 #SORTtopics критика на цивилизацијата, техника/технологија, индустријализам, левица
 #source Theodore Kaczynski,  *Technological Slavery: The Collected Writings of Theodore J. Kaczynski, a.k.a. „The Unabomber“*, Feral House, 2010. [[http://theanarchistlibrary.org/library/fc-industrial-society-and-its-future#fn_back34][theanarchistlibrary.org]]
 #date 1995
-#notes Наслов на оригиналот: Industrial Society and Its Future. Превод: Горан Аргироски, 2013.
+#notes Наслов на оригиналот: *Industrial Society and Its Future*. Превод: Горан Аргироски, 2013.
 #lang mk
 
 
