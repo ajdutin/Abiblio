@@ -2,7 +2,7 @@
 #author Фреди Перлман
 #SORTauthors Фреди Перлман (Fredy Perlman) 
 #SORTtopics национализам, критика на цивилизацијата, првобитна акумулација
-#source The Continuing Appeal of Nationalism, Fifth Estate, 1984 [[http://theanarchistlibrary.org/library/fredy-perlman-the-continuing-appeal-of-nationalism][theanarchistlibrary.org]]
+#source "The Continuing Appeal of Nationalism", *Fifth Estate*, 1984 [[http://theanarchistlibrary.org/library/fredy-perlman-the-continuing-appeal-of-nationalism][theanarchistlibrary.org]]
 #date 1984
 #notes Превод: Алек Кузмановски, 2013. Користен е и српскохрватскиот превод на [[http://anarhisticka-biblioteka.net/library/fredy-perlman-stalna-privlacnost-nacionalizma][Алекса Голијанин]], 2003.
 #lang mk
