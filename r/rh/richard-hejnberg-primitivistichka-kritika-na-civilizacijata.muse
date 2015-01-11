@@ -4,7 +4,7 @@
 #SORTtopics критика на цивилизацијата, примитивизам 
 #source [[http://primitivism.com/primitivist-critique.htm][primitivism.com]] [[http://theanarchistlibrary.org/library/richard-heinberg-the-primitivist-critique-of-civilization][theanarchistlibrary.org]]
 #date 1995
-#notes Наслов на оригиналот: The Primitivist Critique of Civilization. Првпат објавено во списанието за интеграции и различности Маргина #57-59, 2003 како дел од тематот насловен „Примитивизам“. Превод: Стефан Симоновски, 2003.
+#notes Наслов на оригиналот: *The Primitivist Critique of Civilization*. Првпат објавено во списанието за интеграции и различности *Маргина* #57-59, 2003 како дел од тематот насловен „Примитивизам“. Превод: Стефан Симоновски, 2003.
 #lang mk
 
 <quote>
