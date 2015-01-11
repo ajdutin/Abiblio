@@ -2,7 +2,7 @@
 #author Хаким Беј
 #SORTauthors Хаким Беј (Hakim Bey) 
 #SORTtopics анархизам, утопии, онтологија 
-#source Hakim Bey, T.A.Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism, Autonomedia, New York, 1985/1991/2003 [[http://theanarchistlibrary.org/library/hakim-bey-t-a-z-the-temporary-autonomous-zone-ontological-anarchy-poetic-terrorism#toc11][theanarchistlibrary.org]]
+#source Hakim Bey, *T.A.Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism*, Autonomedia, New York, 1985/1991/2003 [[http://theanarchistlibrary.org/library/hakim-bey-t-a-z-the-temporary-autonomous-zone-ontological-anarchy-poetic-terrorism#toc11][theanarchistlibrary.org]]
 #date 1985
 #notes Превод: Фидан Безделник, 2003. Првпат oбјавено на македонски од Плоштад Слобода, Скопје, 2004. Анархистичка библиотека: преводот е делумно коригиран.
 #lang mk
