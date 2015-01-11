@@ -2,9 +2,9 @@
 #author Џон Зерзан
 #SORTauthors Џон Зерзан (John Zerzan) 
 #SORTtopics критика на работата, техника/технологија, синдикализам
-#source John Zerzan, Elements of Refusal, CAL Press 1999 (1st Edition, 1988).
+#source John Zerzan, *Elements of Refusal*, CAL Press 1999 (1st Edition, 1988).
 #date 1976
-#notes Наслов на оригиналот: Taylorism and Unionism. Првпат објавено во  *Fifth Estate*, ноември 1976. Превод: Стефан Симоновски.
+#notes Наслов на оригиналот: "Taylorism and Unionism". Првпат објавено во  *Fifth Estate*, ноември 1976. Превод: Стефан Симоновски.
 #lang mk
 
 
