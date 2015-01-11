@@ -2,7 +2,7 @@
 #author Масимо Пасамани
 #SORTauthors Масимо Пасамани (Massimo Passamani)
 #SORTtopics инсурекционизам 
-#source „More, Much More“ and Other Writings [[http://theanarchistlibrary.org/library/massimo-passamani-more-much-more-and-other-writings#toc8][theanarchistlibrary.org]]
+#source *„More, Much More“ and Other Writings* [[http://theanarchistlibrary.org/library/massimo-passamani-more-much-more-and-other-writings#toc8][theanarchistlibrary.org]]
 #notes Превод: Стефан Симоновски, 2013.
 #lang mk
 
