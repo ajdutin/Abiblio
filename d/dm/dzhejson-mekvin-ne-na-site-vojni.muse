@@ -5,7 +5,7 @@
 #SORTtopics антимилитаризам
 #source [[http://archive.indymedia.be/news/2003/05/62776.html][indymedia.be]]
 #date 2003
-#notes Наслов на оригиналот:"No" to All Wars! Not just to Some Wars. Превод: Стефан Симоновски, 2003.
+#notes Наслов на оригиналот: *"No" to All Wars! Not just to Some Wars*. Превод: Стефан Симоновски, 2003.
 #lang mk
 
 
