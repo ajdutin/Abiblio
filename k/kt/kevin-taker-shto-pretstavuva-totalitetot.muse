@@ -2,9 +2,9 @@
 #author Кевин Такер
 #SORTauthors Кевин Такер (Kevin Tucker)
 #SORTtopics критика на цивилизацијата, отуѓување
-#source Species traitor #1, 2001. [[http://theanarchistlibrary.org/library/kevin-tucker-essays-from-species-traitor][theanarchistlibrary.org]]
+#source *Species traitor* #1, 2001. [[http://theanarchistlibrary.org/library/kevin-tucker-essays-from-species-traitor][theanarchistlibrary.org]]
 #date 2001
-#notes Наслов на оригиналот: What is the Totality? Превод: Стефан Симоновски, 2005.
+#notes Наслов на оригиналот: *What is the Totality?* Превод: Стефан Симоновски, 2005.
 #lang mk
 
 
