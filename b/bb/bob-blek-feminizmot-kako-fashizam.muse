@@ -2,9 +2,9 @@
 #author Боб Блек
 #SORTauthors Боб Блек (Bob Black) 
 #SORTtopics феминизам
-#source Bob Black, The Abolition of Work and Other Essays, Loompanics, 1985. [[http://theanarchistlibrary.org/library/bob-black-feminism-as-fascism][theanarchistlibrary.org]]
+#source Bob Black, *The Abolition of Work and Other Essays*, Loompanics, 1985. [[http://theanarchistlibrary.org/library/bob-black-feminism-as-fascism][theanarchistlibrary.org]]
 #date 1983
-#notes Наслов на оригиналот: Feminism as fascism. Превод: Стефан Симоновски.
+#notes Наслов на оригиналот: "Feminism as fascism". Превод: Стефан Симоновски.
 #lang mk
 
 
