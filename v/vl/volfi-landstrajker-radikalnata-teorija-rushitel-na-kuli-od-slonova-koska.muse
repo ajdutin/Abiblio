@@ -2,9 +2,9 @@
 #author Волфи Ландстрајкер
 #SORTauthors Волфи Ландстрајкер (Wolfi Landstreicher), Ферал Фаун (Feral Faun)
 #SORTtopics инсурекционизам, активизам 
-#source Anarchy: A Journal of Desire Armed No. 38, Fall 1993. [[http://theanarchistlibrary.org/library/feral-faun-essays#toc4][theanarchistlibrary.org]]
+#source *Anarchy: A Journal of Desire Armed* No. 38, Fall 1993. [[http://theanarchistlibrary.org/library/feral-faun-essays#toc4][theanarchistlibrary.org]]
 #date 1993
-#notes Наслов на оригиналот: Radical Theory: A Wrecking Ball for Ivory Towers. Превод: Стефан Симоновски, 2004.
+#notes Наслов на оригиналот: "Radical Theory: A Wrecking Ball for Ivory Towers". Превод: Стефан Симоновски, 2004.
 #lang mk
 
 
