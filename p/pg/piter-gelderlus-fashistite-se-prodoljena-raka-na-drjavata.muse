@@ -4,7 +4,7 @@
 #SORTtopics антифашизам
 #source [[http://theanarchistlibrary.org/library/peter-gelderloos-fascists-are-the-tools-of-the-state][theanarchistlibrary.org]] [[http://news.infoshop.org/article.php?story=20070210035440207][infoshop.org]]
 #date 2007
-#notes Наслов на оригиналот: Fascists are the Tools of the State. Превод: Вулин Гатриевски, 2013.
+#notes Наслов на оригиналот: *Fascists are the Tools of the State*. Превод: Вулин Гатриевски, 2013.
 #lang mk
 
 
