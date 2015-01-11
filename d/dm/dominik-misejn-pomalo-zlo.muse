@@ -2,7 +2,7 @@
 #author Доминик Мисjен
 #SORTauthors Доминик Мисjен (Dominique Misein)
 #SORTtopics инсурекционизам, демократија 
-#source „Il male minore“, Diavolo in corpo, no. 1, Torino, 1999. „The Lesser Evil“, What Democracy Looks Like, A Venomous Butterfly Publication, 2001. http://www.reocities.com/kk_abacus/vbutterfly.html
+#source „Il male minore“, Diavolo in corpo, no. 1, Torino, 1999. „The Lesser Evil“, *What Democracy Looks Like*, A Venomous Butterfly Publication, 2001. [[http://www.reocities.com/kk_abacus/vbutterfly.html][www.reocities.com/kk_abacus/vbutterfly.html]]
 #date 1999
 #notes Превод: Стефан Симоновски, 2004.
 #lang mk
