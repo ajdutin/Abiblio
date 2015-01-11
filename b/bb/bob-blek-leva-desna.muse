@@ -2,9 +2,9 @@
 #author Боб Блек
 #SORTauthors Боб Блек (Bob Black) 
 #SORTtopics критика на работата, левица 
-#source Bob Black, The Abolition of Work and Other Essays, Loompanics, 1985. [[http://www.inspiracy.com/black/abolition/leftrites.html][inspiracy.com]] [[http://theanarchistlibrary.org/library/bob-black-left-rites][theanarchistlibrary.org]]
+#source Bob Black, *The Abolition of Work and Other Essays*, Loompanics, 1985. [[http://www.inspiracy.com/black/abolition/leftrites.html][inspiracy.com]] [[http://theanarchistlibrary.org/library/bob-black-left-rites][theanarchistlibrary.org]]
 #date 1982
-#notes Наслов на оригиналот: Left Rites. Превод: Алек Кузмановски.
+#notes Наслов на оригиналот: "Left Rites". Превод: Алек Кузмановски.
 #lang mk
 
 
