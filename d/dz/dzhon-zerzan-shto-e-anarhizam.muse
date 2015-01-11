@@ -3,7 +3,7 @@
 #SORTauthors Џон Зерзан (John Zerzan) 
 #SORTtopics анархизам 
 #source [[http://www.primitivism.com/what-is-anarchism.htm][primitivism.com]]
-#notes Наслов на оригиналот: What is Anarchism?. Превод: Стефан Симоновски, 2004.
+#notes Наслов на оригиналот: *What is Anarchism?*. Превод: Стефан Симоновски, 2004.
 #lang mk
 
 
