@@ -3,7 +3,7 @@
 #SORTauthors Џејсон Меквин (Jason McQuinn) 
 #SORTtopics анархизам, левица 
 #source [[http://theanarchistlibrary.org/library/jason-mcquinn-post-left-anarchy][theanarchistlibrary.org]]
-#notes Наслов на оригиналот: Post-Left Anarchy? - уводник од <em>Anarchy: A Journal of Desire Armed</em>. Превод: Алек Кузмановски, 2013.
+#notes Наслов на оригиналот: "Post-Left Anarchy?" - уводник од <em>Anarchy: A Journal of Desire Armed</em>. Превод: Алек Кузмановски, 2013.
 #lang mk
 
 
