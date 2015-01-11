@@ -2,9 +2,9 @@
 #author Дерик Џенсен
 #SORTauthors Дерик Џенсен (Derrick Jensen)
 #SORTtopics критика на цивилизацијата
-#source http://community.livejournal.com/_dare/77345.html
+#source [[http://community.livejournal.com/_dare/77345.html][http://community.livejournal.com/_dare/77345.html]]
 #date 2004
-#notes Наслов на оригиналот: Back to Our Senses: How do we free ourselves from the trap of fear? Превод: Стефан Симоновски, 2010.
+#notes Наслов на оригиналот: *Back to Our Senses: How do we free ourselves from the trap of fear?* Превод: Стефан Симоновски, 2010.
 #lang mk
 
 
